@@ -1,0 +1,15 @@
+C:\Users\tyson\my-code-dir\Lab4TysonScamahorn\obj\Debug\net6.0\Lab4TysonScamahorn.csproj.AssemblyReference.cache
+C:\Users\tyson\my-code-dir\Lab4TysonScamahorn\obj\Debug\net6.0\Lab4TysonScamahorn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tyson\my-code-dir\Lab4TysonScamahorn\obj\Debug\net6.0\Lab4TysonScamahorn.AssemblyInfoInputs.cache
+C:\Users\tyson\my-code-dir\Lab4TysonScamahorn\obj\Debug\net6.0\Lab4TysonScamahorn.AssemblyInfo.cs
+C:\Users\tyson\my-code-dir\Lab4TysonScamahorn\obj\Debug\net6.0\Lab4TysonScamahorn.csproj.CoreCompileInputs.cache
+C:\Users\tyson\my-code-dir\Lab4TysonScamahorn\bin\Debug\net6.0\Lab4TysonScamahorn.exe
+C:\Users\tyson\my-code-dir\Lab4TysonScamahorn\bin\Debug\net6.0\Lab4TysonScamahorn.deps.json
+C:\Users\tyson\my-code-dir\Lab4TysonScamahorn\bin\Debug\net6.0\Lab4TysonScamahorn.runtimeconfig.json
+C:\Users\tyson\my-code-dir\Lab4TysonScamahorn\bin\Debug\net6.0\Lab4TysonScamahorn.dll
+C:\Users\tyson\my-code-dir\Lab4TysonScamahorn\bin\Debug\net6.0\Lab4TysonScamahorn.pdb
+C:\Users\tyson\my-code-dir\Lab4TysonScamahorn\obj\Debug\net6.0\Lab4TysonScamahorn.dll
+C:\Users\tyson\my-code-dir\Lab4TysonScamahorn\obj\Debug\net6.0\refint\Lab4TysonScamahorn.dll
+C:\Users\tyson\my-code-dir\Lab4TysonScamahorn\obj\Debug\net6.0\Lab4TysonScamahorn.pdb
+C:\Users\tyson\my-code-dir\Lab4TysonScamahorn\obj\Debug\net6.0\Lab4TysonScamahorn.genruntimeconfig.cache
+C:\Users\tyson\my-code-dir\Lab4TysonScamahorn\obj\Debug\net6.0\ref\Lab4TysonScamahorn.dll
